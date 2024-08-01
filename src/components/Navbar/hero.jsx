@@ -24,7 +24,7 @@ function Hero() {
         <div className='grid grid-cols-1 sm:grid-cols-2 items-center justify-center'>
           {/* text content section */}
        
-          <div className='flex flex-col justify-center gap-4 pt-12 sm:pt-0 text-center sm:text-left order-2 sm:order-1 sm:mx-[300px]'>
+          <div className='flex flex-col justify-center gap-4 pt-12 sm:pt-0 text-center sm:text-left order-2 sm:order-1 sm:mx-[300px] absolute'>
           <h1 className='text-5xl sm:text-6xl lg:text-7xl font-bold text-primary'>75% Off</h1>
             <h1 className='text-5xl sm:text-6xl lg:text-7xl font-bold text-primary' >Grand Sale!!!</h1>
             <p className='text-sm font-bold'>
